@@ -1,0 +1,25 @@
+
+
+.name {
+  display: flex;
+  justify-content: center;
+  font-family: "Arial Black";
+}
+
+.navbar ul {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+
+products {
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+}
+
+.product {
+  width:128px;
+  height:128px;
+  justify-content: center;
+}
